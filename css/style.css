@@ -6,3 +6,8 @@ body {
   padding: 40px 15px;
   text-align: center;
 }
+
+.jumbotron {
+  position: relative;
+  /*background: url(img/Header.jpg) center no-repeat;*/
+  }
